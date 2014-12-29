@@ -11,6 +11,10 @@ go-resources
 #####Go's standard HTTP package and basic web development concepts
 * [http package godoc](http://golang.org/pkg/net/http/) The documentation for the HTTP package in Go
 * [Writing Web Applications](https://golang.org/doc/articles/wiki/) Write a web application using Go's http package and no frameworks
-* [A Recap of Request Handling in Go](http://www.alexedwards.net/blog/a-recap-of-request-handling) Takes a closer look at the http library's big data structures, Handlers and ServeMuxes, a must-know for more advanced stuff like adding middleware to no-frameworks Go web apps
-* [Making and Using HTTP Middleware](http://www.alexedwards.net/blog/making-and-using-middleware) Learn how to add middleware to your HTTP server like in Express.js
+* [A Recap of Request Handling in Go](http://www.alexedwards.net/blog/a-recap-of-request-handling) Takes a closer look at the http library's big data structures, Handlers and ServeMuxes, a must-know concept for more advanced stuff like adding middleware to no-frameworks Go web apps
 * [From Node.js to Go, Why One Startup Made the Switch](http://thenewstack.io/from-node-js-to-go-why-one-startup-made-the-switch/) A talk from Gophercon 2014 on what it was like moving from Node.js to Go for a startup (not really a tutorial but awesome for hearing about Go in the real world)
+
+####Go HTTP middleware concepts
+* [Alice - Painless Middleware Chaining for Go](https://justinas.org/alice-painless-middleware-chaining-for-go/) An introduction to the [Alice](https://github.com/justinas/alice) library, which gives you middleware chaining that feels a lot like working with middleware in Express.js
+* [Making and Using HTTP Middleware](http://www.alexedwards.net/blog/making-and-using-middleware) Learn how to add middleware to your HTTP server like in Express.js
+* [Writing HTTP Middleware in Go](https://justinas.org/writing-http-middleware-in-go/) Another great tutorial on middleware for Go web servers

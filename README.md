@@ -19,3 +19,10 @@ go-resources
 * [Alice - Painless Middleware Chaining for Go](https://justinas.org/alice-painless-middleware-chaining-for-go/) An introduction to the [Alice](https://github.com/justinas/alice) library, which gives you middleware chaining that feels a lot like working with middleware in Express.js
 * [Making and Using HTTP Middleware](http://www.alexedwards.net/blog/making-and-using-middleware) Learn how to add middleware to your HTTP server like in Express.js
 * [Writing HTTP Middleware in Go](https://justinas.org/writing-http-middleware-in-go/) Another great tutorial on middleware for Go web servers
+* [Go/Gorilla for MEAN Stack developers part 2: Handlers and middleware](http://csfortheslothful.blogspot.com/2015/02/gogorilla-for-mean-stack-developers.html)
+
+####Go testing
+* [Boston Golang - Testing](https://www.youtube.com/watch?v=v_wz6E3uFRg)
+* [Testing Web Apps in Go](http://www.markjberger.com/testing-web-apps-in-golang/)
+* [Mocking HTTP Responses in Golang](http://keighl.com/post/mocking-http-responses-in-golang/)
+* [An Introduction To Programming in Go - Testing](https://www.golang-book.com/books/intro/12)

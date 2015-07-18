@@ -23,6 +23,7 @@ go-resources
 
 ####Go testing
 * [Boston Golang - Testing](https://www.youtube.com/watch?v=v_wz6E3uFRg)
+* [Codeship - Testing in Go](https://blog.codeship.com/testing-in-go/)
 * [Testing Web Apps in Go](http://www.markjberger.com/testing-web-apps-in-golang/)
 * [Mocking HTTP Responses in Golang](http://keighl.com/post/mocking-http-responses-in-golang/)
 * [An Introduction To Programming in Go - Testing](https://www.golang-book.com/books/intro/12)

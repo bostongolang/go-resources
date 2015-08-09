@@ -14,6 +14,7 @@ go-resources
 * [A Recap of Request Handling in Go](http://www.alexedwards.net/blog/a-recap-of-request-handling) Takes a closer look at the http library's big data structures, Handlers and ServeMuxes, a must-know concept for more advanced stuff like adding middleware to no-frameworks Go web apps
 * [From Node.js to Go, Why One Startup Made the Switch](http://thenewstack.io/from-node-js-to-go-why-one-startup-made-the-switch/) A talk from Gophercon 2014 on what it was like moving from Node.js to Go for a startup (not really a tutorial but awesome for hearing about Go in the real world)
 * [Go/Gorilla for MEAN Stack developers part 1: HTTP routing](http://csfortheslothful.blogspot.com/2015/01/gogorilla-for-mean-stack-developers.html) A tutorial on Go/Gorilla routing for people learning Go web development from Node.js
+* [Basic extension of Go's HTTP Handlers](https://simonsdotnet.wordpress.com/2014/09/06/extending-gos-http-handlers/) A clever workaround for making no-frameworks net/http handler functions with extra functionality
 
 ####Go HTTP middleware concepts
 * [Alice - Painless Middleware Chaining for Go](https://justinas.org/alice-painless-middleware-chaining-for-go/) An introduction to the [Alice](https://github.com/justinas/alice) library, which gives you middleware chaining that feels a lot like working with middleware in Express.js
